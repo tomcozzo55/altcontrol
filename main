@@ -1676,7 +1676,7 @@ if game.PlaceId == 2788229376 then
         Rank_17.Size = UDim2.new(0, 513, 0, 226)
         Rank_17.Font = Enum.Font.Code
         Rank_17.Text =
-            "This script has been made by the incognito and lil_Squeasy."
+            "This script has been made by the tomW#6317"
         Rank_17.TextColor3 = Color3.fromRGB(220, 220, 220)
         Rank_17.TextSize = 18.000
         Rank_17.TextWrapped = true
